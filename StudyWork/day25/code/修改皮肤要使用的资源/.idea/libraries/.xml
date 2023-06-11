@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="修改皮肤要使用的资源">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/liquidlnf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JTattoo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
